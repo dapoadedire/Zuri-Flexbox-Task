@@ -6,12 +6,20 @@
     margin: 0;
 }
 
-
-header {
-    background-color: #e0dddd;
+header{
+    width: 100%;
+    background-color: rgb(17, 29, 48 );
+    position: fixed;
+    top: 0;
     padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    font-family: 'Lexend Deca', sans-serif;
+}
+header a{
+    color: white;
+    margin-left: 100px;
 }
 
 /* .blink {
