@@ -36,7 +36,9 @@ header a{
     }
   } */
 
-
+main{
+    margin-top:150px;
+}
 
 .cars {
     display: flex;
